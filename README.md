@@ -27,12 +27,13 @@
     
     
 - **Offers simple live market view**
+
     <img src="https://github.com/nconnector/automotive_market_big_data/raw/master/gui_simple.jpg"  width="640" height="350">
 
 
 -  **Looks for patterns**
 
-	 - Flags vehicles with invalid data
+    - Flags vehicles with invalid data
     - Tags based on keyword analysis *(e.g. passed inspection, new tires, one owner)*
     - Creates Value Indexes for each model
  
@@ -47,6 +48,7 @@
 
 
 ## Additional Features
+
 - Dealer market and Private market differentiation
 
   <img src="https://github.com/nconnector/automotive_market_big_data/raw/master/dealer_vs_private.jpg"  width="500" height="400">
