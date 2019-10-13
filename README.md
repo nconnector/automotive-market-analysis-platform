@@ -28,7 +28,7 @@
     
 - **Offers simple live market view**
 
-    <img src="https://github.com/nconnector/automotive_market_big_data/raw/master/gui_simple.jpg"  width="640" height="350">
+<img src="https://github.com/nconnector/automotive_market_big_data/raw/master/gui_simple.jpg"  width="640" height="350">
 
 
 -  **Looks for patterns**
@@ -37,7 +37,7 @@
     - Tags based on keyword analysis *(e.g. passed inspection, new tires, one owner)*
     - Creates Value Indexes for each model
  
-   <img src="https://github.com/nconnector/automotive_market_big_data/raw/master/avg_new2.jpg"  width="450" height="500">
+<img src="https://github.com/nconnector/automotive_market_big_data/raw/master/avg_new2.jpg"  width="450" height="500">
 
 
 -  **Estimates vehicles' values**
