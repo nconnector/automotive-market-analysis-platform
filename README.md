@@ -44,7 +44,7 @@
 	- Contaminated data excluded from index calculations
 	- Indexes account for seasonal and other price fluctuations
 	
-   <img src="https://github.com/nconnector/automotive_market_big_data/raw/master/vehicle_index_gr.jpg">
+<img src="https://github.com/nconnector/automotive_market_big_data/raw/master/vehicle_index_gr.jpg">
 
 
 ## Additional Features
