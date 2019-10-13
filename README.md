@@ -1,13 +1,15 @@
 
 
 # Automotive market scan
- > Quantitative decision making in the world of cars
  
  <img src="https://media.giphy.com/media/js0dren204MfmGQ1Kq/giphy.gif">
  
+ > Quantitative decision making in the world of cars
+
+
 ## Use cases
 
-- **Private buyers and vehicle owners**
+-   **Private buyers and vehicle owners**
     
 -   **Dealers working on inventory procurement**
     
@@ -15,14 +17,18 @@
     
 -   **Market researchers**
 
+
+
 ## What does it do?
 
 - **Aggregates the entire Canadian automotive market**
-	- Minimal update latency
+    - Minimal update latency
     - Over 10 million vehicles in historical data
     
+    
 - **Offers simple live market view**
-<img src="https://github.com/nconnector/automotive_market_big_data/raw/master/gui_simple.jpg"  width="640" height="350">
+    <img src="https://github.com/nconnector/automotive_market_big_data/raw/master/gui_simple.jpg"  width="640" height="350">
+
 
 -  **Looks for patterns**
 
@@ -37,19 +43,22 @@
 	- Contaminated data excluded from index calculations
 	- Indexes account for seasonal and other price fluctuations
 	
-  <img src="https://github.com/nconnector/automotive_market_big_data/raw/master/vehicle_index_gr.jpg">
+   <img src="https://github.com/nconnector/automotive_market_big_data/raw/master/vehicle_index_gr.jpg">
+
 
 ## Additional Features
 - Dealer market and Private market differentiation
-<img src="https://github.com/nconnector/automotive_market_big_data/raw/master/dealer_vs_private.jpg"  width="500" height="400">
+
+  <img src="https://github.com/nconnector/automotive_market_big_data/raw/master/dealer_vs_private.jpg"  width="500" height="400">
 
 -  Vehicle’s depreciation estimation with respect to age and mileage
-<img src="https://github.com/nconnector/automotive_market_big_data/raw/master/dealer_vs_private_gr.jpg"  width="500" height="300">
+
+  <img src="https://github.com/nconnector/automotive_market_big_data/raw/master/dealer_vs_private_gr.jpg"  width="500" height="300">
 
 - Business intelligence (complete view of any dealership)
-<img src="https://github.com/nconnector/automotive_market_big_data/raw/master/dealer_profile.png"  width="400" height="450">
-  
 
+  <img src="https://github.com/nconnector/automotive_market_big_data/raw/master/dealer_profile.png"  width="400" height="450">
+  
 
 ## Technology Used
 
