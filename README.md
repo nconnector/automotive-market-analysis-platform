@@ -2,9 +2,9 @@
 
 # Automotive market big data project
  
- <img src="https://media.giphy.com/media/js0dren204MfmGQ1Kq/giphy.gif">
- 
  > Quantitative decision making in the world of cars
+ 
+ <img src="https://media.giphy.com/media/js0dren204MfmGQ1Kq/giphy.gif">
 
 
 ## Use cases
